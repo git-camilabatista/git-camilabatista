@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**git-camilabatista/git-camilabatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=5690fc)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=5690fc)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=5690fc)
+![](https://img.shields.io/badge/DB-GoogleBigQuery-informational?style=flat&logo=google&logoColor=white&color=5690fc)
+
+
 
 Here are some ideas to get you started:
 
