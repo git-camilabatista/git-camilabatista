@@ -15,6 +15,10 @@ I'm a Computer Science student and a Data Analysis enthusiast looking for knowle
 
 - 🌱 I’m currently learning Computer Science, Python and Data Analysis.
 
+---
+
+[![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](linkedin.com/in/camila-b-0878a2108)
+
 <!-- 
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
