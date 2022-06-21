@@ -1,4 +1,4 @@
-## Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello!
 
 
 I'm a Computer Science student and a Data Analysis enthusiast looking for knowledge. 
