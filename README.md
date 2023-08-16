@@ -1,7 +1,7 @@
 ## Hello!
 
 
-I'm a Computer Science student and a Data Analysis enthusiast looking for knowledge. 
+I'm a Computer Science student looking for knowledge. 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=5690fc)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=5690fc)
@@ -14,7 +14,7 @@ I'm a Computer Science student and a Data Analysis enthusiast looking for knowle
 ![](https://img.shields.io/badge/tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=5690fc)
 
 
-- 🌱 I’m currently learning Computer Science, Python and Data Analysis.
+- 🌱 I’m currently learning Computer Science, Python, SQL and Django.
 
 ---
 
