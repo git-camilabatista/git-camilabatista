@@ -1,20 +1,20 @@
 ## Hello!
 
-
 I'm a Computer Science student looking for knowledge. 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=5690fc)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=5690fc)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=5690fc)
 ![](https://img.shields.io/badge/Code-NumPy-informational?style=flat&logo=NumPy&logoColor=white&color=5690fc)
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=5690fc)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=5690fc)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=Flask&logoColor=white&color=5690fc)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=5690fc)
 ![](https://img.shields.io/badge/DB-Google_BigQuery-informational?style=flat&logo=google&logoColor=white&color=5690fc)
 ![](https://img.shields.io/badge/Data-Power_BI-informational?style=flat&logo=Power_BI&logoColor=white&color=5690fc)
+![](https://img.shields.io/badge/Data-Quicksight-informational?style=flat&logo=Power_BI&logoColor=white&color=5690fc)
 ![](https://img.shields.io/badge/Data-Excel-informational?style=flat&logo=Excel&logoColor=white&color=5690fc)
-![](https://img.shields.io/badge/tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=5690fc)
-
-
-- 🌱 I’m currently learning Computer Science, Python, SQL and Django.
+![](https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=5690fc)
 
 ---
 
