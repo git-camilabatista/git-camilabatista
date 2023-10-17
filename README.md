@@ -1,6 +1,8 @@
 ## Hello!
 
-I'm a Computer Science student looking for knowledge. 
+I'm a Computer Science student looking for knowledge.
+
+I also have a technical degree in quality management, and I hold a bachelor's degree in administration.
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=5690fc)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=5690fc)
